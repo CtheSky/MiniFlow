@@ -46,7 +46,7 @@ trainables = [W1, b1, W2, b2]
 
 
 # hyper-parameters
-epochs = 200
+epochs = 1000
 batch_size = 5000
 learning_rate = 0.18
 
